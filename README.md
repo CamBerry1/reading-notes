@@ -5,4 +5,4 @@
 ## [**Ops 102 - *Intro to Computer Operations***](https://github.com/CamBerry1/Ops102-reading-notes/wiki)
 ## **Ops 201 - *Foundations of Computer Operations* (Link to follow)**
 ## [**Ops 301 - *Networking and Systems Administration***](https://github.com/CamBerry1/Ops301ReadingNotes/wiki)
-## **Ops 401 - *Cybersecurity Engineering* (Link to follow)**
+## [**Ops 401 - *Cybersecurity Engineering***](https://github.com/CamBerry1/Ops401ReadingNotes/wiki)
